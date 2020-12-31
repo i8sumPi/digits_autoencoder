@@ -1,0 +1,15 @@
+{
+  "name": "digits_autoencoder",
+  "version": "1.0.0",
+  "description": "Autoencoder for the mnist digits. It's really just a test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "digits_autoencoder"
+  },
+  "author": "Kira L",
+  "license": "ISC"
+}
